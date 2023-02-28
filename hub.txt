@@ -1,0 +1,6 @@
+hub cen11
+shortLabel cen11
+longLabel cen11
+genomesFile genomes.txt
+email  fedorrik1@gmail.com
+
