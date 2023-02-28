@@ -1,6 +1,6 @@
 genome cen11
 trackDb trackDb.txt
-twoBitPath cen11
+twoBitPath cen11.2bit
 organism Homo Sapiens
 defaultPos chm13_cen11:1-9200000
 
