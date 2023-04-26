@@ -49,3 +49,16 @@ visibility dense
 type bigBed 9
 itemRgb on
 maxItems 100000
+
+track contigs
+type bigBed
+bigDataUrl bb/contigs.bb
+shortLabel contigs
+longLabel contigs
+itemRgb on
+group Centromere
+priority 5
+visibility dense
+type bigBed 9
+itemRgb on
+maxItems 100000
